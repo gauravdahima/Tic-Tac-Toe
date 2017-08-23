@@ -248,7 +248,7 @@ def main():
             print("Player 1 is the winner.")
             break
         
-        print("Player 2: click a square.")
+        print("Player 2: click a Circle.")
         p2mouse = win.getMouse()
         p2x = p2mouse.getX()
         p2y = p2mouse.getY()
